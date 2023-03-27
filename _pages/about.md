@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcom to watch my page!"
+title: "Welcom"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,3 +10,7 @@ redirect_from:
 
 ## About me
   My research direction is Diffusion Models.Detailed information about this is Fast Sampling for Diffusion models.
+|  Domain   | Direction  |
+|  ----  | ----  |
+| Generative Models  | Diffusion Models |
+| DPMs  | Fast Sampling |
