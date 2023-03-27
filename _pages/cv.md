@@ -15,12 +15,10 @@ Education
 * M.S. in Nanjing China, Nanjing University of Aeronautics and Astronautics, 2025 (expected)
 
 <br>
-<br>
 
 Work experience
 ======
 
-<br>
 <br>
 
 Publications
@@ -30,7 +28,6 @@ Publications
   {% endfor %}</ul>
   
 <br>
-<br>
  
 Talks
 ======
@@ -39,7 +36,6 @@ Talks
   {% endfor %}</ul>
   
 <br>
-<br>
 
 Teaching
 ======
@@ -47,7 +43,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-<br>
 <br>
 
 Service and leadership
