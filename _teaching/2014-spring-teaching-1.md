@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "NUAA,Computer Science and Technology Department"
-date: 2014-01-01
+date: 2018-09-01
 location: "Nanjing, China"
 ---
 
