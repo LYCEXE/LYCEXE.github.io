@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcom to watch my page!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-## Welcome
-  This is my personal page.
 ## About me
   My research direction is Diffusion Models.Detailed information about this is Fast Sampling for Diffusion models.
