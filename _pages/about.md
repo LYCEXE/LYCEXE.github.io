@@ -10,6 +10,7 @@ redirect_from:
 
 ## About me
   My research direction is Diffusion Models.Detailed information about this is Fast Sampling for Diffusion models.
+
 |  Domain   | Direction  |
 |  ----  | ----  |
 | Generative Models  | Diffusion Models |
