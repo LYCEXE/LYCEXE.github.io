@@ -1,7 +1,7 @@
 ---
 title: "Graduate Course"
 collection: teaching
-type: "Study Experience"
+type: "Graduate Course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "NUAA , Computer Science and Technology Department"
 date: 2022-09-01
